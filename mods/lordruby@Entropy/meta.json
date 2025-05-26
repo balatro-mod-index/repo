@@ -1,0 +1,14 @@
+{
+  "title": "Entropy",
+  "requires-steamodded": true,
+  "requires-talisman": true,
+  "categories": [
+    "Content"
+  ],
+  "author": "Ruby",
+  "repo": "https://github.com/lord-ruby/Entropy",
+  "downloadURL": "https://github.com/lord-ruby/Entropy/archive/refs/heads/main.zip",
+  "folderName": "Entropy",
+  "version": "dfd7e40",
+  "automatic-version-check": true
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Talisman",
+  "requires-steamodded": true,
+  "requires-talisman": false,
+  "categories": [
+    "API",
+    "Technical",
+    "Quality of Life"
+  ],
+  "author": "MathIsFun0",
+  "repo": "https://github.com/MathIsFun0/Talisman",
+  "downloadURL": "https://github.com/MathIsFun0/Talisman/releases/latest/download/Talisman.zip",
+  "folderName": "Talisman",
+  "automatic-version-check": true,
+  "version": "v2.2.0a"
+}

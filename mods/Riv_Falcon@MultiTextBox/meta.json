@@ -1,0 +1,13 @@
+{
+  "title": "Multi Text Box",
+  "requires-steamodded": false,
+  "requires-talisman": false,
+  "categories": [
+    "Miscellaneous"
+  ],
+  "author": "Riv_Falcon",
+  "repo": "https://github.com/RivFalcon/MultiTextBox",
+  "downloadURL": "https://github.com/RivFalcon/MultiTextBox/archive/refs/heads/master.zip",
+  "automatic-version-check": true,
+  "version": "5036873"
+}

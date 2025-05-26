@@ -1,0 +1,14 @@
+{
+  "title": "Azazel's Jokers",
+  "requires-steamodded": true,
+  "requires-talisman": false,
+  "categories": [
+    "Content",
+    "Joker"
+  ],
+  "author": "Starlet Devil",
+  "repo": "https://github.com/AstrumNativus/AzzysJokers",
+  "downloadURL": "https://github.com/AstrumNativus/AzzysJokers/archive/refs/tags/v1.2.2.zip",
+  "automatic-version-check": false,
+  "version": "v1.2.2"
+}

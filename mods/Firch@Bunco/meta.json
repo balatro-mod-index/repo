@@ -1,0 +1,16 @@
+{
+  "title": "Bunco",
+  "requires-steamodded": true,
+  "requires-talisman": false,
+  "categories": [
+    "Content",
+    "Joker",
+    "Quality of Life"
+  ],
+  "author": "Firch",
+  "repo": "https://github.com/Firch/Bunco",
+  "downloadURL": "https://github.com/Firch/Bunco/releases/download/5.1/Bunco-5.1.zip",
+  "folderName": "Bunco",
+  "version": "5.1",
+  "automatic-version-check": false
+}

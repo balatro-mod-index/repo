@@ -1,0 +1,1 @@
+A Balatro mod that adds decks that replace standard deck construction.

@@ -1,0 +1,1 @@
+Pack with 9 jokers with some interesting effects

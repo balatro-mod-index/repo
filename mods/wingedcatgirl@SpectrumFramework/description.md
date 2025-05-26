@@ -1,0 +1,2 @@
+## Spectrum Framework
+Provides for scoring of "Spectrum" hands (five cards all of different suits) and adds basic content for hands (Jokers, planets). Intended for use alongside mods which add custom suits, but technically works all by itself if you use a Wild card for the fifth suit.

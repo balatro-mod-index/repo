@@ -1,0 +1,14 @@
+{
+  "title": "Almanac Patches",
+  "requires-steamodded": true,
+  "requires-talisman": false,
+  "categories": [
+    "Technical"
+  ],
+  "author": "Dragokillfist",
+  "repo": "https://github.com/Dragokillfist/almanac-patches",
+  "downloadURL": "https://github.com/Dragokillfist/almanac-patches/archive/refs/heads/main.zip",
+  "folderName": "AlmanacPatches",
+  "version": "233c9ea",
+  "automatic-version-check": true
+}

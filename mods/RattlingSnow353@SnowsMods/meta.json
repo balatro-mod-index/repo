@@ -1,0 +1,13 @@
+{
+  "title": "Snows Mods",
+  "requires-steamodded": true,
+  "requires-talisman": false,
+  "categories": [
+    "Content"
+  ],
+  "author": "RattlingSnow353",
+  "repo": "https://github.com/RattlingSnow353/Snow-s-Mods",
+  "downloadURL": "https://github.com/RattlingSnow353/Snow-s-Mods/archive/refs/heads/main.zip",
+  "automatic-version-check": true,
+  "version": "a58e7f3"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Paperback",
+  "requires-steamodded": true,
+  "requires-talisman": false,
+  "categories": [
+    "Content"
+  ],
+  "author": "PaperMoon",
+  "repo": "https://github.com/GitNether/paperback",
+  "downloadURL": "https://github.com/GitNether/paperback/archive/refs/heads/main.zip",
+  "automatic-version-check": true,
+  "version": "6b73d3b"
+}

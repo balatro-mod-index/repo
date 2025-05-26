@@ -1,0 +1,13 @@
+{
+  "title": "Lobotomy Corporation",
+  "requires-steamodded": true,
+  "requires-talisman": false,
+  "categories": [
+    "Content"
+  ],
+  "author": "Mysthaps",
+  "repo": "https://github.com/Mysthaps/LobotomyCorp",
+  "downloadURL": "https://github.com/Mysthaps/LobotomyCorp/archive/refs/heads/main.zip",
+  "automatic-version-check": true,
+  "version": "5929c32"
+}

@@ -1,0 +1,1 @@
+A vanilla-inspired mod that adds many new ideas to Balatro, ranging from new Jokers, Decks, Vouchers, and more! This mod is still very much WIP, so expect things to break!!!

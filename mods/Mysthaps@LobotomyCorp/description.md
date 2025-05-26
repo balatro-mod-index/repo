@@ -1,0 +1,44 @@
+<h1 align="center">Lobotomy Corporation</h1>
+<h4 align="center"><i>Face the Fear, Build the Future.</i></h4>
+
+<h5 align="center"><i>
+Greetings, Manager. 
+I see that you've been slacking off while playing a few rounds of cards during our work hours. 
+I am unfamiliar with playing cards myself, but I am able to modify this little game of yours so that you can still have "fun" while still generating precious energy to meet the daily quota. 
+This may hinder your playing experience, but I am sure you will do just fine.</i></h5>
+
+# Features
+## Abnormalities, as Jokers
+Each added Abnormality have different Observation Levels that unlock more of their Information. 
+This is based on the amount of rounds played with that Abnormality in your Joker slots.
+
+## Abnormalities, as Boss Blinds
+Some Abnormalities are able to ***breach***. 
+In addition, some breaching Abnormalities can change the upcoming fights to be an Abnormality as a Boss Blind. 
+These blinds are very hard to take down, make sure you're well-prepared before tackling on these challenges.
+
+## Extraction Pack
+To help with discovering Abnormalities, a new **Booster Pack** type is added. 
+This pack allows you to pick one of three Abnormalities to add to your Joker slots.
+
+## Ordeals
+During the run, **Ordeals** can replace some blinds. These blinds are generally more difficult to take down compared to the other blinds, 
+with **Dawn Ordeals** being the easiest, and **Midnight Ordeals** being much a lot tougher to overcome.
+
+## Challenges
+In some Challenges, Ordeals are guaranteed to appear. In others, you might be fighting **[[[INFORMATION REDACTED]]]**. 
+Good luck, Manager. You will need it.
+
+<details>
+    <summary><b>Lobotomy Corporation Spoilers</b></summary>
+    There are challenges that mirror the Sephirah Meltdowns experienced in the main game. 
+    It is recommended that they should be experienced in the actual game before attempting them here.
+</details><br>
+
+# Credits
+### **[Lobotomy Corporation](https://store.steampowered.com/app/568220/Lobotomy_Corporation__Monster_Management_Simulation/)**
+### **[Library of Ruina](https://store.steampowered.com/app/1256670/Library_Of_Ruina/)**
+### **[Limbus Company](https://store.steampowered.com/app/1973530/Limbus_Company/)** 
+
+All music used are listed in the ``music.txt`` file, found [here](https://github.com/Mysthaps/LobotomyCorp/blob/main/music.txt).
+Other credits can be found in the **Credits** tab in the mod's menu

@@ -1,0 +1,13 @@
+{
+  "title": "Familiar",
+  "requires-steamodded": true,
+  "requires-talisman": false,
+  "categories": [
+    "Content"
+  ],
+  "author": "RattlingSnow353/humplydinkle",
+  "repo": "https://github.com/RattlingSnow353/Familiar/tree/BetterCalc-Fixes",
+  "downloadURL": "https://github.com/RattlingSnow353/Familiar/archive/refs/heads/BetterCalc-Fixes.zip",
+  "automatic-version-check": true,
+  "version": "19bfbab"
+}

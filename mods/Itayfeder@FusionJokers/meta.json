@@ -1,0 +1,14 @@
+{
+  "title": "Fusion Jokers",
+  "requires-steamodded": true,
+  "requires-talisman": false,
+  "categories": [
+    "Joker",
+    "API"
+  ],
+  "author": "itayfeder",
+  "repo": "https://github.com/lshtech/Fusion-Jokers",
+  "downloadURL": "https://github.com/lshtech/Fusion-Jokers/archive/refs/heads/main.zip",
+  "automatic-version-check": true,
+  "version": "fb52ba8"
+}

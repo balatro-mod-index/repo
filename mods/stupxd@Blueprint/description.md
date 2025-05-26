@@ -1,0 +1,1 @@
+Dynamically changes blueprint and brainstorm texture to the joker they are copying.

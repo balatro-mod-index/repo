@@ -1,0 +1,13 @@
+{
+  "title": "Balatro Draft",
+  "requires-steamodded": true,
+  "requires-talisman": false,
+  "categories": [
+    "Content"
+  ],
+  "author": "spire-winder",
+  "repo": "https://github.com/spire-winder/Balatro-Draft",
+  "downloadURL": "https://github.com/spire-winder/Balatro-Draft/releases/download/v0.5.2/Balatro-Draft-v0.5.2.zip",
+  "automatic-version-check": false,
+  "version": "v0.5.2"
+}

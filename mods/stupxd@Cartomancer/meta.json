@@ -1,0 +1,13 @@
+{
+  "title": "Cartomancer",
+  "requires-steamodded": false,
+  "requires-talisman": false,
+  "categories": [
+    "Quality of Life"
+  ],
+  "author": "stupxd",
+  "repo": "https://github.com/stupxd/Cartomancer",
+  "downloadURL": "https://github.com/stupxd/Cartomancer/archive/refs/heads/main.zip",
+  "automatic-version-check": true,
+  "version": "0d5f2c5"
+}
