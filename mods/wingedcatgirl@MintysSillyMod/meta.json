@@ -1,13 +1,13 @@
 {
   "title": "Minty's Silly Little Mod",
   "requires-steamodded": true,
-  "requires-talisman": true,
+  "requires-talisman": false,
   "categories": [
     "Content"
   ],
   "author": "wingedcatgirl",
   "repo": "https://github.com/wingedcatgirl/MintysSillyMod",
-  "downloadURL": "https://github.com/wingedcatgirl/MintysSillyMod/releases/download/v0.4.0c/MintysSillyMod-0.4.0c.zip",
+  "downloadURL": "https://github.com/wingedcatgirl/MintysSillyMod/releases/download/v0.6.0/MintysSillyMod-0.6.0.zip",
   "automatic-version-check": false,
-  "version": "v0.4.0c"
+  "version": "v0.6.0"
 }
