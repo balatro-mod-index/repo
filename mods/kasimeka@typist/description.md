@@ -1,6 +1,4 @@
-# typist
-
-typist is a fully keyboard-driven UX mod for Balatro.
+a fully keyboard-driven UX mod for Balatro, with a bunch of QoL keybinds.
 
 ## video demo
 

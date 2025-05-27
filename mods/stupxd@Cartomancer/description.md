@@ -1,15 +1,17 @@
 # Cartomancer
-Balatro mod with quality of life improvements and some small optimizations.
+Balatro mod with quality of life improvements and some small optimizations, mainly aimed for better experience with endless or heavily modded runs.
 
 ## Features
 
-- Improved deck view with options to stack equal cards, hide already drawn cards and more.
+- Deck view customization (stack equal cards, hide already drawn cards).
 
-- Improved jokers management.
+- Boss Blinds History.
 
-- Improved deck display with custom cards limit.
+- Expand your jokers for easier management with >20 jokers.
 
-- Custom scoring flames intensity and volume.
+- Limit amount of cards shown in deck pile.
+
+- Scoring flames customization (intensity and volume).
 
 - and (maybe) more... 
 

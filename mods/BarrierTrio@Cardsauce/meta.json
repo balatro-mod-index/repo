@@ -9,7 +9,8 @@
   ],
   "author": "BarrierTrio & Keku",
   "repo": "https://github.com/BarrierTrio/Cardsauce",
-  "downloadURL": "https://github.com/BarrierTrio/Cardsauce/releases/latest/download/Cardsauce.zip",
+  "downloadURL": "https://github.com/BarrierTrio/Cardsauce/archive/refs/heads/main.zip",
+  "folderName": "Cardsauce",
   "automatic-version-check": true,
-  "version": "Update1.4.1"
+  "version": "a13653e"
 }

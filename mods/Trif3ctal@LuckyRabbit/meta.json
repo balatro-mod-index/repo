@@ -1,0 +1,14 @@
+{
+  "title": "Lucky Rabbit",
+  "requires-steamodded": true,
+  "requires-talisman": false,
+  "categories": [
+    "Content"
+  ],
+  "author": "Fennex",
+  "repo": "https://github.com/Trif3ctal/Lucky-Rabbit",
+  "downloadURL": "https://github.com/Trif3ctal/Lucky-Rabbit/archive/refs/tags/v1.1.4a.zip",
+  "folderName": "LuckyRabbit",
+  "automatic-version-check": true,
+  "version": "v1.1.4a"
+}
