@@ -38,7 +38,7 @@ jobs:
       - name: append `last-updated` timestamp to updated mods if not present
         run: |
           TIME_NOW=$(date +"%s")
-          git diff --name-only | grep meta.json | while read -r file; do
+          git diff -z --name-only | grep -z meta.json | while IFS='' read -r -d '' file; do
             if ! diff \
               <(jq --sort-keys '."last-updated" = null' "$file") \
               <(jq --sort-keys '."last-updated" = null' "/tmp/$file") \
