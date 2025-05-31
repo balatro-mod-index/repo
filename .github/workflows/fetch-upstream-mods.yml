@@ -2,7 +2,7 @@ name: fetch upstream mod changes
 
 on:
   schedule:
-    - cron: '0,30 * * * *'  # every 30 minutes
+    - cron: '13,43 * * * *'  # every 30 minutes
   workflow_dispatch:
 
 jobs:
