@@ -44,8 +44,10 @@ jobs:
               <(jq --sort-keys '."last-updated" = null' "/tmp/$file") \
               >/dev/null
             then
-              jq '."last-updated" |= (. // '"$TIME_NOW"')' "$file" \
-                | sponge "$file" 
+              jq \
+                --indent 2 \
+                '."last-updated" |= (. // '"$TIME_NOW"')' \
+                "$file" | sponge "$file" 
             else
               git restore "$file"
             fi
