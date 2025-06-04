@@ -9,6 +9,7 @@
   "repo": "https://github.com/Squidguset/TooManyDecks",
   "downloadURL": "https://github.com/Squidguset/TooManyDecks/archive/refs/heads/main.zip",
   "folderName": "TooManyDecks",
-  "version": "4e3061c",
-  "automatic-version-check": true
+  "version": "3ff2b92",
+  "automatic-version-check": true,
+  "last-updated": 1749003456
 }
